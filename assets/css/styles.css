@@ -1,0 +1,37 @@
+.far.fa-star {
+}
+
+.container {
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.container {
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculator {
+}
+
+.calculator form input {
+}
+
+.calculator form button {
+  border: 0;
+  outline: 0;
+  width: 60px;
+}
+
+.box-shadow {
+  box-shadow: none;
+}
+
+.btn-primary {
+  box-shadow: none;
+}
+
